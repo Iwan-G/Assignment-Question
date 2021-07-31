@@ -1,0 +1,10 @@
+.header{
+    background-color:mediumseagreen;
+    text-align: center;
+}
+
+.ant-page-header-heading {
+    align-items: center;
+    display: flex;
+    padding-left: 40%;
+}
